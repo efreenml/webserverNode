@@ -4,3 +4,4 @@ public/LICENSE.txt
 node_modules
 public/back
 public/*.html
+.env
